@@ -59,6 +59,18 @@ Search for the hashtag on Twitter: [#KurdîHilbijêre](https://twitter.com/searc
 
 ![kurdistan_04](wordclouds/kurdistan_04.png)
 
+## Sun
+
+![sun_00](wordclouds/sun_00.png)
+
+![sun_01](wordclouds/sun_01.png)
+
+![sun_02](wordclouds/sun_02.png)
+
+![sun_03](wordclouds/sun_03.png)
+
+![sun_04](wordclouds/sun_04.png)
+
 ## Twitter Logo
 
 ![twitter_00](wordclouds/twitter_00.png)
