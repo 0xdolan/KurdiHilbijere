@@ -1,4 +1,4 @@
-# KurdiHilbijere
+# Kurdî Hilbijêre
 
 Some Kurdish Word clouds for #KurdîHilbijêre
 Search for the hashtag on Twitter: [#KurdîHilbijêre](https://twitter.com/search?q=%23kurdihilbijere)
